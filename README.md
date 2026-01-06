@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Opeyemi Afolabi
+# Opeyemi Micheal Afolabi
 
 PhD researcher working at the intersection of **machine learning, randomness, secure systems, and hardware-oriented implementations**.
 
