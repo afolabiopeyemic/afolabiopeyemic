@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **afolabiopeyemic/afolabiopeyemic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +15,9 @@ Here are some ideas to get you started:
 
 # Opeyemi Afolabi
 
-PhD researcher working at the intersection of **machine learning, randomness, and secure systems**.
+PhD researcher working at the intersection of **machine learning, randomness, secure systems, and hardware-oriented implementations**.
 
-My research focuses on how the *source and structure of randomness* influences optimization dynamics, stability, and reproducibility in learning systems — particularly in chaotic, hardware-inspired, and cryptographic settings.
+My research focuses on how the *source and structure of randomness* influences optimization dynamics, stability, and reproducibility in learning systems, particularly in chaotic, hardware-inspired, and cryptographic settings.
 
 ---
 
@@ -71,4 +69,3 @@ I’m interested in research problems involving:
 ## 📫 Contact
 
 - GitHub: https://github.com/afolabiopeyemic
-- (Optional) Google Scholar / Website / LinkedIn
